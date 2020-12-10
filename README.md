@@ -2,7 +2,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=muneebwanee&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=muneebwanee&layout=compact&theme=chartreuse-dark" />
 <p align="center">
-<a href="https://github.com/muneebwanee/InstaReporter"><img title="ℑ𝔫𝔰𝔱𝔞ℜ𝔢𝔭𝔬𝔯𝔱𝔢𝔯" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/InstaReporter"><img title="InstaReporter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/SubScanner"><img title="SubScanner" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=SubScanner&theme=chartreuse-dark"></a>
 <a href="https://github.com/muneebwanee/RATos"><img title="RATos" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=RATos&theme=vision-friendly-dark"></a>
 </p>
