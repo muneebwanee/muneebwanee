@@ -6,6 +6,7 @@
 <a href="https://github.com/muneebwanee/SubScanner"><img title="SubScanner" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=SubScanner&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/RATos"><img title="RATos" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=RATos&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/RATos"><img title="RATos" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=WinRAT&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/RATos"><img title="RATos" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=xSploit&theme=vision-friendly-dark"></a>
 </p>
 
 <p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́ </p>
