@@ -7,7 +7,7 @@
 <a href="https://github.com/muneebwanee/RATos"><img title="RATos" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=RATos&theme=vision-friendly-dark"></a>
 </p>
 
-### <<< If you copy , Then Give me The Credits >>>
+### 𝐈𝐅 𝐘𝐎𝐔 𝐂𝐎𝐏𝐘, 𝐓𝐇𝐄𝐍 𝐆𝐈𝐕𝐄 𝐌𝐄 𝐓𝐇𝐄 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-Muneeb--Wanee-green?style=for-the-badge&logo=github)](https://github.com/muneebwanee)
