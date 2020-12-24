@@ -1,5 +1,6 @@
 
 ![20200808_160757](https://1.bp.blogspot.com/-qC8kV4h_PfU/X8-QgpRi5NI/AAAAAAAAAsU/CMNUn-ACVU0IelXKYHrTTSw0zAeH27fZQCLcBGAsYHQ/s2893/muneebwanee.jpg)
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/muneb)
 ![github stats](https://github-readme-stats.vercel.app/api?username=muneebwanee&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&hide=css,php&theme=dark)
 <p align="center">
