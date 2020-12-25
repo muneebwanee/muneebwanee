@@ -1,7 +1,6 @@
 
 ![20200808_160757](https://1.bp.blogspot.com/-qC8kV4h_PfU/X8-QgpRi5NI/AAAAAAAAAsU/CMNUn-ACVU0IelXKYHrTTSw0zAeH27fZQCLcBGAsYHQ/s2893/muneebwanee.jpg)
 ![github stats](https://github-readme-stats.vercel.app/api?username=muneebwanee&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
-[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/muneb)
 <p align="center">
 <a href="https://github.com/muneebwanee/InstaReporter"><img title="InstaReporter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=radical"></a>
 <a href="https://github.com/muneebwanee/SubScanner"><img title="SubScanner" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=SubScanner&theme=vision-friendly-dark"></a>
@@ -22,11 +21,11 @@
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=dark"></a>
 </p>
 
+<p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́ 
 
-<p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́ </p>
 
-
-### 𝐈𝐅 𝐘𝐎𝐔 𝐂𝐎𝐏𝐘, 𝐓𝐇𝐄𝐍 𝐆𝐈𝐕𝐄 𝐌𝐄 𝐓𝐇𝐄 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
+### 𝐈𝐅 𝐘𝐎𝐔 𝐂𝐎𝐏𝐘, 𝐓𝐇𝐄𝐍 𝐆𝐈𝐕𝐄 𝐌𝐄 𝐓𝐇𝐄 𝐂𝐑𝐄𝐃𝐈𝐓𝐒 
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -46,5 +45,6 @@
 <a href="https://m.me/me.muneebwanee"><img title="Facebook" src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 <a href="https://github.com/muneebwanee"><img title="GitHub" src="https://img.shields.io/badge/Github-Muneeb--Wanee-green?style=for-the-badge&logo=github"></a>
 <a href="https://www.buymeacoffee.com/muneebwanee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://ko-fi.com/muneb"><img title="muneebwanee" src=https://www.ko-fi.com/img/donate_sm.png"></a>
 <noscript><a href="https://liberapay.com/muneeb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 </p>
