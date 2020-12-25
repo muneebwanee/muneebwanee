@@ -4,17 +4,17 @@
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/muneb)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&hide=css,php&theme=dark)
 <p align="center">
-<a href="https://github.com/muneebwanee/InstaReporter"><img title="InstaReporter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/InstaReporter"><img title="InstaReporter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=radical"></a>
 <a href="https://github.com/muneebwanee/SubScanner"><img title="SubScanner" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=SubScanner&theme=vision-friendly-dark"></a>
-<a href="https://github.com/muneebwanee/InfoGram"><img title="InfoGram" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InfoGram&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/InfoGram"><img title="InfoGram" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InfoGram&theme=radical"></a>
 <a href="https://github.com/muneebwanee/WinRat"><img title="WinRat" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=WinRAT&theme=vision-friendly-dark"></a>
-<a href="https://github.com/muneebwanee/xSploit"><img title="xSploit" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=xSploit&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/xSploit"><img title="xSploit" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=xSploit&theme=radical"></a>
 <a href="https://github.com/muneebwanee/ConnectIn"><img title="ConnectIn" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=ConnectIn&theme=vision-friendly-dark"></a>
-<a href="https://github.com/muneebwanee/BruteBook"><img title="BruteBook" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=BruteBook&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/BruteBook"><img title="BruteBook" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=BruteBook&theme=radical"></a>
 <a href="https://github.com/muneebwanee/GramScraper"><img title="GramScraper" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=GramScraper&theme=vision-friendly-dark"></a>
-<a href="https://github.com/muneebwanee/proinfo"><img title="proinfo" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=proinfo&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/proinfo"><img title="proinfo" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=proinfo&theme=radical"></a>
 <a href="https://github.com/muneebwanee/RetrieveEmail"><img title="RetrieveEmail" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=RetrieveEmail&theme=vision-friendly-dark"></a>
- <a href="https://github.com/muneebwanee/Dash"><img title="Dash" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Dash&theme=vision-friendly-dark"></a>
+ <a href="https://github.com/muneebwanee/Dash"><img title="Dash" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Dash&theme=radical"></a>
 <a href="https://github.com/muneebwanee/iptracker"><img title="iptracker" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=iptracker&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/Blogger"><img title="Blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Blogger&theme=radical"></a>
 </p>
