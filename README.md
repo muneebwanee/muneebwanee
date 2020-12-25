@@ -19,7 +19,9 @@
 <a href="https://github.com/muneebwanee/Blogger"><img title="Blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Blogger&theme=radical"></a>
 </p>
 
-
+<p align="center">
+<a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact"></a>
+</p>
 
 
 <p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́ </p>
