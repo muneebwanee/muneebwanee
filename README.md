@@ -23,7 +23,7 @@
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=dark"></a>
 </p>
 
-<p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́ </p>
+<p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́</p>
 
 <p align="center">
 ### 𝐈𝐅 𝐘𝐎𝐔 𝐂𝐎𝐏𝐘, 𝐓𝐇𝐄𝐍 𝐆𝐈𝐕𝐄 𝐌𝐄 𝐓𝐇𝐄 𝐂𝐑𝐄𝐃𝐈𝐓𝐒 
@@ -41,7 +41,6 @@
 
 <p align="center">
 <a href="https://twitter.com/muneebwanee"><img title="Twitter" src="https://img.shields.io/twitter/follow/muneebwanee?style=social"></a>
-<a href="https://twitter.com/the_deepnet"><img title="Contributer" src="https://img.shields.io/twitter/follow/the_deepnet?label=%40the_deepnet&style=social"></a>
 <a href="https://instagram.com/muneebwanee"><img title="Instagram" src="https://img.shields.io/badge/IG-%40muneebwanee-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://linkedin.com/in/muneebwanee"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-muneebwanee-orange?colorA=%23ff9696&colorB=%237E7B4E&style=for-the-badge"></a>
 <a href="https://m.me/me.muneebwanee"><img title="Facebook" src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
