@@ -1,13 +1,11 @@
 <p align="center">
 <a href="https://muneb.rf.gd"><img title="muneebwanee" src="https://1.bp.blogspot.com/-qC8kV4h_PfU/X8-QgpRi5NI/AAAAAAAAAsU/CMNUn-ACVU0IelXKYHrTTSw0zAeH27fZQCLcBGAsYHQ/s2893/muneebwanee.jpg"></a>
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/muneebwanee/count.svg" />
+</p>
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api?username=muneebwanee&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
-
-## Visitor count
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/SwetabhOfficial/count.svg" />
-</p>
-
 <p align="center">
 <a href="https://github.com/muneebwanee/InstaReporter"><img title="InstaReporter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=radical"></a>
 <a href="https://github.com/muneebwanee/SubScanner"><img title="SubScanner" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=SubScanner&theme=vision-friendly-dark"></a>
