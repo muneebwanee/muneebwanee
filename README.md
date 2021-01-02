@@ -18,7 +18,7 @@
 <a href="https://github.com/muneebwanee/iptracker"><img title="iptracker" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=iptracker&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/Blogger"><img title="Blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Blogger&theme=radical"></a>
 <a href="https://github.com/muneebwanee/iptracker2.0"><img title="iptracker2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=iptracker2.0&theme=vision-friendly-dark"></a>
-</p>
+<a href="https://github.com/muneebwanee/WebTemplates"><img title="WebTemplates" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=WebTemplates&theme=radical"></a></p>
 
 <p align="center">
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=dark"></a>
