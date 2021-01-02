@@ -3,6 +3,11 @@
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api?username=muneebwanee&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
+## Visitor count
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/SwetabhOfficial/count.svg" />
+</p>
+
 <p align="center">
 <a href="https://github.com/muneebwanee/InstaReporter"><img title="InstaReporter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=radical"></a>
 <a href="https://github.com/muneebwanee/SubScanner"><img title="SubScanner" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=SubScanner&theme=vision-friendly-dark"></a>
