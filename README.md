@@ -34,17 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20-%2314354C.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/muneebwanee%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://twitter.com/muneebwanee"><img title="Twitter" src="https://img.shields.io/twitter/follow/muneebwanee?style=social"></a>
+<img src="https://img.shields.io/badge/muneebwanee%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <a href="https://instagram.com/muneebwanee"><img title="Instagram" src="https://img.shields.io/badge/IG-%40muneebwanee-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://linkedin.com/in/muneebwanee"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-muneebwanee-orange?colorA=%23ff9696&colorB=%237E7B4E&style=for-the-badge"></a>
 <a href="https://m.me/me.muneebwanee"><img title="Facebook" src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
