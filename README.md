@@ -22,7 +22,6 @@
 <a href="https://github.com/muneebwanee/Blogger"><img title="Blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Blogger&theme=radical"></a>
 <a href="https://github.com/muneebwanee/iptracker2.0"><img title="iptracker2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=iptracker2.0&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/WebTemplates"><img title="WebTemplates" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=WebTemplates&theme=radical"></a></p>
-<a href="https://github.com/muneebwanee/WebTemplates"><img title="WebTemplates" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a></p>
 
 
 
