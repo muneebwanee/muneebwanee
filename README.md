@@ -4,7 +4,7 @@
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/muneebwanee/count.svg" />
 </p>
-<a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api?username=muneebwanee&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api?username=muneebwanee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
 </p>
 <p align="center">
 <a href="https://github.com/muneebwanee/InstaReporter"><img title="InstaReporter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=radical"></a>
@@ -22,6 +22,10 @@
 <a href="https://github.com/muneebwanee/Blogger"><img title="Blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Blogger&theme=radical"></a>
 <a href="https://github.com/muneebwanee/iptracker2.0"><img title="iptracker2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=iptracker2.0&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/WebTemplates"><img title="WebTemplates" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=WebTemplates&theme=radical"></a></p>
+<a href="https://github.com/muneebwanee/WebTemplates"><img title="WebTemplates" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a></p>
+
+
+
 
 <p align="center">
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=dark"></a>
