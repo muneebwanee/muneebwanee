@@ -23,8 +23,8 @@
 <a href="https://github.com/muneebwanee/iptracker2.0"><img title="iptracker2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=iptracker2.0&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/WebTemplates"><img title="WebTemplates" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=WebTemplates&theme=radical"></a>
 <a href="https://github.com/muneebwanee/Unlimited-Mega.Nz"><img title="Unlimited-Mega.Nz" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Unlimited-Mega.Nz&theme=vision-friendly-dark"></a>
-<a href="https://github.com/muneebwanee/Tutorials"><img title="Tutorials" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Tutorials&theme=radical"></a></p>
-
+<a href="https://github.com/muneebwanee/Tutorials"><img title="Tutorials" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Tutorials&theme=radical"></a>
+<a href="https://github.com/muneebwanee/InstaBot"><img title="InstaBot" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaBot&theme=vision-friendly-dark"></a></p>
 
 
 
