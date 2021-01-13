@@ -4,6 +4,8 @@
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/muneebwanee/count.svg" />
 </p>
+
+<p align="center"> 
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api?username=muneebwanee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
 </p>
 <p align="center">
