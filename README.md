@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=muneebwanee)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
 <a href="https://muneb.rf.gd"><img title="muneebwanee" src="https://1.bp.blogspot.com/-qC8kV4h_PfU/X8-QgpRi5NI/AAAAAAAAAsU/CMNUn-ACVU0IelXKYHrTTSw0zAeH27fZQCLcBGAsYHQ/s2893/muneebwanee.jpg"></a>
 <p align="center"> 
@@ -8,6 +7,7 @@
 
 <p align="center"> 
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api?username=muneebwanee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></a>
+<a href="https://github.com/muneebwanee"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=muneebwanee&theme=monokai"></a>
 </p>
 <p align="center">
 <a href="https://github.com/muneebwanee/InstaReporter"><img title="InstaReporter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaReporter&theme=radical"></a>
