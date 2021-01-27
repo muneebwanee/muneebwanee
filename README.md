@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=warifp)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
 <a href="https://muneb.rf.gd"><img title="muneebwanee" src="https://1.bp.blogspot.com/-qC8kV4h_PfU/X8-QgpRi5NI/AAAAAAAAAsU/CMNUn-ACVU0IelXKYHrTTSw0zAeH27fZQCLcBGAsYHQ/s2893/muneebwanee.jpg"></a>
 <p align="center"> 
