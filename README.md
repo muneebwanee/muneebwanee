@@ -17,12 +17,16 @@ I'm having experience in Cyber Security. I am expert in different Programming La
   <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
 
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 <br />
 
 ~If you like what I do, maybe consider buying me a coffee/tea :
