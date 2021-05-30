@@ -16,6 +16,10 @@ I'm having experience in Cyber Security. I am expert in different Programming La
 </a> <a href="https://github.com/muneebwanee">
   <img align="center" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br />
 
 ~If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
