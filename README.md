@@ -33,12 +33,13 @@ No Activity tracked this Week
 <!-- TODO-IST:END -->
 <br />
 
-~If you like what I do, maybe consider buying me a coffee/tea :
-
+<p align="center"> If you like what I do, maybe consider buying me a coffee/tea or donate </p>
+<p align="center">
 <a href="https://ko-fi.com/muneb"><img alt="Donate using ko-fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
 <a href="https://www.buymeacoffee.com/muneebwanee" target="buymeacoffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <a href="https://liberapay.com/muneeb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
+</p>
 
 
 <p align="center">
