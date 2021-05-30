@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
-      - uses: muneebwanee/stats-readme@main
+      - uses: muneebwanee/waka-readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          PREMIUM: ""
