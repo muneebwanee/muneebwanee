@@ -119,3 +119,10 @@ No Activity tracked this Week
 <a href="https://liberapay.com/muneeb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 <a href="https://saweria.co/muneeb"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a>
 </p>
+
+---
+### ❤️Supporters❤️
+[![Stargazers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/stars/muneebwanee/muneebwanee)](https://github.com/muneebwanee/muneebwanee/stargazers)
+[![Forkers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/forks/muneebwanee/muneebwanee)](https://github.com/muneebwanee/muneebwanee/network/members)
+
+---
