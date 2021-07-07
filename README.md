@@ -122,7 +122,7 @@ No Activity tracked this Week
 
 ---
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/stars/muneebwanee/muneebwanee)](https://github.com/muneebwanee/muneebwanee/stargazers)
-[![Forkers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/forks/muneebwanee/muneebwanee)](https://github.com/muneebwanee/muneebwanee/network/members)
+[![Stargazers repo roster for @muneebwanee/muneebwanee](https://reporoster.com/stars/muneebwanee/muneebwanee)](https://github.com/muneebwanee/muneebwanee/stargazers)
+[![Forkers repo roster for @muneebwanee/muneebwanee](https://reporoster.com/forks/muneebwanee/muneebwanee)](https://github.com/muneebwanee/muneebwanee/network/members)
 
 ---
