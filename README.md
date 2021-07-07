@@ -71,9 +71,14 @@ No Activity tracked this Week
 <a href="https://github.com/muneebwanee/WebTemplates"><img title="WebTemplates" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=WebTemplates&theme=radical"></a>
 <a href="https://github.com/muneebwanee/Unlimited-Mega.Nz"><img title="Unlimited-Mega.Nz" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Unlimited-Mega.Nz&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/Tutorials"><img title="Tutorials" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=Tutorials&theme=radical"></a>
-<a href="https://github.com/muneebwanee/InstaBot"><img title="InstaBot" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaBot&theme=vision-friendly-dark"></a></p>
-
-
+<a href="https://github.com/muneebwanee/InstaBot"><img title="InstaBot" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=InstaBot&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/WebBrute"><img title="WebBrute" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=WebBrute&theme=radical"></a>
+<a href="https://github.com/muneebwanee/IP"><img title="IP" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=IP&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/JokerProxies-Tool"><img title="JokerProxies-Tool" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=JokerProxies-Tool&theme=radical"></a>
+<a href="https://github.com/muneebwanee/DDGUrlParser"><img title="DDGUrlParser" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=DDGUrlParser&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/HTML-Encrypter"><img title="HTML-Encrypter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=HTML-Encrypter&theme=radical"></a>
+<a href="https://github.com/muneebwanee/IP-Logger"><img title="IP-Logger" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=IP-Logger&theme=vision-friendly-dark"></a>
+</p>
 
 <p align="center">
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=dark"></a>
