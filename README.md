@@ -81,7 +81,7 @@ No Activity tracked this Week
 </p>
 
 <p align="center">
-<a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=dark"></a>
+<a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=gruvbox"></a>
 </p>
 
 
