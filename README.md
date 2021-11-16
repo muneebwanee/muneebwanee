@@ -78,6 +78,7 @@ No Activity tracked this Week
 <a href="https://github.com/muneebwanee/DDGUrlParser"><img title="DDGUrlParser" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=DDGUrlParser&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muneebwanee/HTML-Encrypter"><img title="HTML-Encrypter" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=HTML-Encrypter&theme=radical"></a>
 <a href="https://github.com/muneebwanee/IP-Logger"><img title="IP-Logger" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=IP-Logger&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muneebwanee/RAD"><img title="RAD" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=RAD&theme=radical"></a>
 </p>
 
 <p align="center">
