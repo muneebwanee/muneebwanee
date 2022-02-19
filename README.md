@@ -1,5 +1,5 @@
 ## Donate to BTC Address: 
-`36QW21MQQxUK7ohBQnvP5itipe4bFx91Bo`
+```36QW21MQQxUK7ohBQnvP5itipe4bFx91Bo```
 
 ---
 
