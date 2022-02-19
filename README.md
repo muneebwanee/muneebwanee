@@ -1,3 +1,8 @@
+## Donate to BTC Address: 
+`36QW21MQQxUK7ohBQnvP5itipe4bFx91Bo`
+
+---
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 
