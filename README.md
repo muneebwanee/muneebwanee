@@ -131,6 +131,8 @@ No Activity tracked this Week
 <a href="https://saweria.co/muneeb"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a>
 </p>
 
+<img align="" width="99.9%" src="https://github-readme-activity-graph.cyclic.app/graph?username=muneebwanee&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+
 ---
 ### ❤️Supporters❤️
 [![Stargazers repo roster for @muneebwanee/muneebwanee](https://reporoster.com/stars/muneebwanee/muneebwanee)](https://github.com/muneebwanee/muneebwanee/stargazers)
