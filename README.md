@@ -42,6 +42,12 @@ No Activity tracked this Week
 <!-- TODO-IST:END -->
 <br />
 
+---
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://islamic-relief.org/)
+
+---
+
 <p align="center"> If you like what I do, maybe consider buying me a coffee/tea or donate </p>
 <p align="center">
 <a href="https://ko-fi.com/muneb"><img alt="Donate using ko-fi" src="https://www.ko-fi.com/img/githubbutton_sm.svg"></a>
@@ -94,6 +100,11 @@ No Activity tracked this Week
 <a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=gruvbox"></a>
 </p>
 
+---
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://islamic-relief.org/)
+
+---
 
 
 <p align="center"> 
