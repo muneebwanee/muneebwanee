@@ -44,7 +44,7 @@ No Activity tracked this Week
 
 ---
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://islamic-relief.org/appeals/palestine-emergency-appeal/)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)]([https://islamic-relief.org/appeals/palestine-emergency-appeal/](https://youtu.be/_rsiO3eAw3w))
 
 ---
 
@@ -96,13 +96,9 @@ No Activity tracked this Week
 <a href="https://github.com/muneebwanee/RAD"><img title="RAD" src="https://github-readme-stats.vercel.app/api/pin/?username=muneebwanee&repo=RAD&theme=radical"></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/muneebwanee"><img title="muneebwanee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebwanee&layout=compact,php&theme=gruvbox"></a>
-</p>
-
 ---
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://islamic-relief.org/appeals/palestine-emergency-appeal/)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)]([https://islamic-relief.org/appeals/palestine-emergency-appeal/](https://youtu.be/_rsiO3eAw3w))
 
 ---
 
