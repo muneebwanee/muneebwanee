@@ -44,7 +44,7 @@ No Activity tracked this Week
 
 ---
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://islamic-relief.org/)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://islamic-relief.org/appeals/palestine-emergency-appeal/)
 
 ---
 
@@ -102,7 +102,7 @@ No Activity tracked this Week
 
 ---
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://islamic-relief.org/)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://islamic-relief.org/appeals/palestine-emergency-appeal/)
 
 ---
 
