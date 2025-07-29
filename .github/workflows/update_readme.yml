@@ -1,0 +1,34 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update README with Latest Activity
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # The feed URL for your repositories atom feed
+          feed_list: "https://github.com/muneebwanee.atom"
+          # Max number of posts to show
+          max_post_count: 5
+          # Template for each list item
+          template: "> ✨ **[$title]($url)** <br/>     *${description}* <br/>     <small>📅 Last updated: $date</small>"
+          # Format for the date
+          date_format: "mmmm d, yyyy"
+          # The comment block in your README to update
+          comment_tag_name: "activity"
+          # A clean commit message
+          commit_message: "chore: Auto-update latest activity in README"
+          # User-agent for the request
+          user_agent: "GitHub-Actions-Workflow"
+          # Accept header for atom feeds
+          accept_header: "application/atom+xml,application/rss+xml,application/xml;q=0.9,text/xml;q=0.8"
