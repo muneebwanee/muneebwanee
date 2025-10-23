@@ -22,7 +22,7 @@ My main strength is adaptability and the determination to get the job done. I am
 - 📫 You can find me on:
 
 <p align="center">
-  <a href="https://twitter.com/muneebwanee" target="_blank">
+  <a href="https://twitter.com/munebwani" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>&nbsp;
   <a href="https://www.instagram.com/muneebwanee/" target="_blank">
