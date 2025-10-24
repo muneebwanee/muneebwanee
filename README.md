@@ -50,18 +50,14 @@ My main strength is adaptability and the determination to get the job done. I am
 <details>
   <summary>Click to view my GitHub Stats & Trophies</summary>
   <br/>
-  <p>
-    <img title="muneebwanee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muneebwanee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />&nbsp;
-    <img title="muneebwanee's Trophy" src="https://github-profile-trophy.vercel.app/?username=muneebwanee&theme=monokai" />
-  </p>
+ <p align='center'>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=muneebwanee" alt="Advanced GitHub Stats for muneebwanee" width="500"/>
+</p>
 </details>
 
 <details>
   <summary>Click to view my Contribution Activity Map</summary>
   <br/>
-  <p align='center'>
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=muneebwanee" alt="Advanced GitHub Stats for muneebwanee" width="500"/>
-</p>
 <p align='center'>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebwanee&theme=dracula&hide_border=true" alt="Advanced Activity Stats for muneebwanee" width="500"/>
 </p>
