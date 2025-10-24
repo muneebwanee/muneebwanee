@@ -63,9 +63,6 @@ My main strength is adaptability and the determination to get the job done. I am
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=muneebwanee" alt="Advanced GitHub Stats for muneebwanee" width="500"/>
 </p>
 <p align='center'>
-<img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for muneebwanee" width="500"/>
-</p>
-<p align='center'>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebwanee&theme=dracula&hide_border=true" alt="Advanced Activity Stats for muneebwanee" width="500"/>
 </p>
 </details>
