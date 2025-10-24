@@ -18,6 +18,11 @@ I am passionate about making open source more accessible, creating technology to
 
 My main strength is adaptability and the determination to get the job done. I am always learning something new from every experience because I believe there is always room for self-improvement, both personally and professionally.
 
+<p align="center">
+<img src="https://blog.konstruct.io/content/images/2024/04/github-stars-logo_Color.webp" alt="Nominate me as a GitHub Star" width="22" style="vertical-align:middle; margin-right:6px;"/></a>  <b>Support My Nomination <a href="https://stars.github.com/nominate/"><b>Nominate me here</b></a> </b> <img src="https://blog.konstruct.io/content/images/2024/04/github-stars-logo_Color.webp" alt="Nominate me as a GitHub Star" width="22" style="vertical-align:middle; margin-right:6px;"/></a>
+</p>
+
+
 - 💬 Ask me about anything, I am always happy to help!
 - 📫 You can find me on:
 
@@ -54,27 +59,15 @@ My main strength is adaptability and the determination to get the job done. I am
 <details>
   <summary>Click to view my Contribution Activity Map</summary>
   <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebwanee&theme=radical&bg_color=272727&hide_border=true" alt="muneebwanee's Activity Graph" width="80%">
-  </p>
-</details>
-
-<details>
-  <summary>Click to view my WakaTime & Todoist Stats</summary>
-  <br/>
-  <p align="center">
-    <b>📊 This Week I Spent My Time On:</b>
-    ```text
-    No Activity tracked this Week
-    ```
-    </p>
-  <p align="center">
-    <b>🚧 My Todoist Stats:</b>
-    🏆  200 Karma Points           
-    🌸  Completed 0 tasks today           
-    ✅  Completed 0 tasks so far           
-    ⏳  Longest streak is 0 days
-    </p>
+  <p align='center'>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=muneebwanee" alt="Advanced GitHub Stats for muneebwanee" width="500"/>
+</p>
+<p align='center'>
+<img src="https://leetcard.jacoblin.cool/opsysdebug?ext=activity&theme=nord" alt="Advanced LeetCode Stats for muneebwanee" width="500"/>
+</p>
+<p align='center'>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muneebwanee&theme=dracula&hide_border=true" alt="Advanced Activity Stats for muneebwanee" width="500"/>
+</p>
 </details>
 
 </div>
@@ -193,8 +186,7 @@ If you like what I do, maybe consider buying me a coffee/tea or donating! Your s
 ---
 
 <p align="center">
-  <b>𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃</b><br>
-  <img src="https://profile-counter.glitch.me/muneebwanee/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=muneebwanee&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
 <p align="center">
